@@ -1,0 +1,6667 @@
+{
+  "structQueue": [
+    {
+      "id": 1,
+      "name": "structQueue",
+      "type": "__attribute__((aligned(4)))",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    },
+    {
+      "id": 2,
+      "name": "nextAvailableSlot",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    },
+    {
+      "id": 3,
+      "name": "*dword4",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    },
+    {
+      "id": 4,
+      "name": "maxSize",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    },
+    {
+      "id": 5,
+      "name": "valuePtr",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    },
+    {
+      "id": 6,
+      "name": "valuePtrXOR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "structQueue"
+    }
+  ],
+  "struct_queue_big": [
+    {
+      "id": 1,
+      "name": "struct_queue_big",
+      "type": "__attribute__((aligned(2)))",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 2,
+      "name": "poistionRel",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 3,
+      "name": "field_2",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 4,
+      "name": "poistionRel_FromEnd",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 5,
+      "name": "field_6",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 6,
+      "name": "base",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 7,
+      "name": "field_9",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 8,
+      "name": "field_A",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 9,
+      "name": "field_C",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 10,
+      "name": "field_D",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 11,
+      "name": "field_E",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 12,
+      "name": "field_F",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 13,
+      "name": "poistionRel_xor",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 14,
+      "name": "field_12",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 15,
+      "name": "field_14",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 16,
+      "name": "field_16",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 17,
+      "name": "field_18",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 18,
+      "name": "field_19",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 19,
+      "name": "field_1A",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 20,
+      "name": "field_1C",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 21,
+      "name": "field_1D",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 22,
+      "name": "field_1E",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    },
+    {
+      "id": 23,
+      "name": "field_1F",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_queue_big"
+    }
+  ],
+  "struct_error_ref": [
+    {
+      "id": 1,
+      "name": "struct_error_ref",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_error_ref"
+    },
+    {
+      "id": 2,
+      "name": "word0",
+      "type": "_WORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_error_ref"
+    },
+    {
+      "id": 3,
+      "name": "word2",
+      "type": "_WORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_error_ref"
+    },
+    {
+      "id": 4,
+      "name": "word4",
+      "type": "_WORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_error_ref"
+    },
+    {
+      "id": 5,
+      "name": "word6",
+      "type": "_WORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_error_ref"
+    }
+  ],
+  "struct_bg": [
+    {
+      "id": 1,
+      "name": "struct_bg",
+      "type": "__attribute__((aligned(4)))",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 3,
+      "name": "field_4",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 4,
+      "name": "field_5",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 5,
+      "name": "field_6",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 6,
+      "name": "*field_8",
+      "type": "struct_bg",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 7,
+      "name": "field_C",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 8,
+      "name": "field_10",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 9,
+      "name": "field_12",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 10,
+      "name": "field_14",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 11,
+      "name": "field_18",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 12,
+      "name": "field_1C",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 13,
+      "name": "field_20",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 14,
+      "name": "field_24",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    },
+    {
+      "id": 15,
+      "name": "field_28",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bg"
+    }
+  ],
+  "struct_usb_something24100": [
+    {
+      "id": 1,
+      "name": "struct_usb_something24100",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 2,
+      "name": "gap0[6]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 3,
+      "name": "byte6",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 4,
+      "name": "byte7",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 5,
+      "name": "gap8[19]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 6,
+      "name": "byte1B",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 7,
+      "name": "gap1C[2]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    },
+    {
+      "id": 8,
+      "name": "byte1E",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_something24100"
+    }
+  ],
+  "struct_0": [
+    {
+      "id": 1,
+      "name": "struct_0",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 2,
+      "name": "*anonymous_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 3,
+      "name": "*aAboveGoal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 4,
+      "name": "*aAddBgReading",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 5,
+      "name": "*aAlertsReminder",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 6,
+      "name": "*aRef02d03d04d05",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 7,
+      "name": "*aRef02d03d02d03",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 8,
+      "name": "*aAllHistory",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 9,
+      "name": "*aAlarmHistory_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 10,
+      "name": "*aAlwaysOn",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 11,
+      "name": "*aA_2",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 12,
+      "name": "*aApril",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 13,
+      "name": "*aAsAResultOfT_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 14,
+      "name": "*aAsAResultOfThe",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 15,
+      "name": "*aAsAResultOfT_2",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 16,
+      "name": "*aAssignEditBgTa",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 17,
+      "name": "*aAugust",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 18,
+      "name": "*aAutoOff",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 19,
+      "name": "*aAvgBg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 20,
+      "name": "*aAvgReadsDay",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 21,
+      "name": "*aMeterTemperatu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 22,
+      "name": "*aTempStopped",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 23,
+      "name": "*aMaxBasal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 24,
+      "name": "*aBasalB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 25,
+      "name": "*aBasalPrograms",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 26,
+      "name": "*aTempBasalYRema",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 27,
+      "name": "*aDeliveryInterr",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 28,
+      "name": "*aOffBeepOnly",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 29,
+      "name": "*aBelowGoal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 30,
+      "name": "*aBg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 31,
+      "name": "*aCheckForKetone",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 32,
+      "name": "*aBgHistory",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 33,
+      "name": "*aLastBg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 34,
+      "name": "*aTreatYourLowBg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 35,
+      "name": "*aBgReadingWasMa",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 36,
+      "name": "*aMeterErrD",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 37,
+      "name": "*aBgMeter",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 38,
+      "name": "*aMinBgForCalcs",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 39,
+      "name": "*aControl",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 40,
+      "name": "*aPreMeal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 41,
+      "name": "*aPostMeal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 42,
+      "name": "*aMissedBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 43,
+      "name": "*aCarbGuess",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 44,
+      "name": "*aBasalEvaluatio",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 45,
+      "name": "*aBasalEvaluat_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 46,
+      "name": "*aSkippedMeal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 47,
+      "name": "*aExerciseLight",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 48,
+      "name": "*aExerciseModera",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 49,
+      "name": "*aExerciseStrenu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 50,
+      "name": "*aFasting",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 51,
+      "name": "*aSickDay",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 52,
+      "name": "*aKetonesNeg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 53,
+      "name": "*aKetonesTrace",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 54,
+      "name": "*aKetonesSmall",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 55,
+      "name": "*aKetonesModerat",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 56,
+      "name": "*aKetonesLarge",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 57,
+      "name": "*aPreBedtime",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 58,
+      "name": "*aTargetBg_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 59,
+      "name": "*aNoteACorrectio",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 60,
+      "name": "*aShortestTimeRe",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 61,
+      "name": "*aBgReminder",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 62,
+      "name": "*aBgTag",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 63,
+      "name": "*aBgGoal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 64,
+      "name": "*aBolusCalcs",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 65,
+      "name": "*aSuggestedBol_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 66,
+      "name": "*aBolusStoppedPr",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 67,
+      "name": "*aBolusHistory_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 68,
+      "name": "*aBolusIncrement",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 69,
+      "name": "*aMaxBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 70,
+      "name": "*aBolusB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 71,
+      "name": "*aBolusPresets",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 72,
+      "name": "*aBolus_4",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 73,
+      "name": "*aBolusBasalCalc",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 74,
+      "name": "*aBolusStopped",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 75,
+      "name": "*aBolusReminders",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 76,
+      "name": "*aImmediateBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 77,
+      "name": "*anonymous_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 78,
+      "name": "*aCalories",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 79,
+      "name": "*aCancelExtended",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 80,
+      "name": "*aCancelTempBasa",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 81,
+      "name": "*aNoteForBolusCa",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 82,
+      "name": "*aCarbHistory",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 83,
+      "name": "*aCarbPresets",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 84,
+      "name": "*aE_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 85,
+      "name": "*aG_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 86,
+      "name": "*aG_2",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 87,
+      "name": "*anonymous_2",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 88,
+      "name": "*anonymous_3",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 89,
+      "name": "*aCarbPresetB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 90,
+      "name": "*aCarbsG",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 91,
+      "name": "*aCarbs",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 92,
+      "name": "*aExceedsMaxBolu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 93,
+      "name": "*aAdjustedForIob",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 94,
+      "name": "*anonymous_4",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 95,
+      "name": "*anonymous_5",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 96,
+      "name": "*anonymous_6",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 97,
+      "name": "*anonymous_7",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 98,
+      "name": "*aChangePod",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 99,
+      "name": "*aChangeSensor",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 100,
+      "name": "*aChangeTransmit",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 101,
+      "name": "*aEdit",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 102,
+      "name": "*aChecking",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 103,
+      "name": "*aCheckAlarms",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 104,
+      "name": "*aLastStatus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 105,
+      "name": "*aBasal_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 106,
+      "name": "*aBolus_3",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 107,
+      "name": "*aPod",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 108,
+      "name": "*aSettings",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 109,
+      "name": "*aSuspendResume",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 110,
+      "name": "*aConfidenceRemi",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 111,
+      "name": "*aCopy",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 112,
+      "name": "*aCorrectionU",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 113,
+      "name": "*aMMM",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 114,
+      "name": "*aBgB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 115,
+      "name": "*aCorrectionFact",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 116,
+      "name": "*aCorrectionIob",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 117,
+      "name": "*aCorrection",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 118,
+      "name": "*aReverseCorre_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 119,
+      "name": "*aCorrect",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 120,
+      "name": "*aCorr_Above",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 121,
+      "name": "*aCorruptRecord",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 122,
+      "name": "*aCustomRemind_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 123,
+      "name": "*aReminderB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 124,
+      "name": "*aCustomBgTags",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 125,
+      "name": "*aCustomTagB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 126,
+      "name": "*aDaily",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 127,
+      "name": "*aDailyBasal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 128,
+      "name": "*aDate",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 129,
+      "name": "*aDate_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 130,
+      "name": "*aDateTime",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 131,
+      "name": "*aDays",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 132,
+      "name": "*aPodDeactivated",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 133,
+      "name": "*aDecember",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 134,
+      "name": "*aDelete",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 135,
+      "name": "*aDeliveringBolu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 136,
+      "name": "*aDiagnostics",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 137,
+      "name": "*aBgUnits",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 138,
+      "name": "*anonymous_8",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 139,
+      "name": "*aEnterManually",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 140,
+      "name": "*aExpiration",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 141,
+      "name": "*aExt",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 142,
+      "name": "*aE_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 143,
+      "name": "*aExtended",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 144,
+      "name": "*aExtendedBolusU",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 145,
+      "name": "*aExtExtendedBol",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 146,
+      "name": "*aFavorites",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 147,
+      "name": "*aFat",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 148,
+      "name": "*aFebruary",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 149,
+      "name": "*aFiber",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 150,
+      "name": "*a50U",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 151,
+      "name": "*aFoodLibrary_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 152,
+      "name": "*aMoreActions",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 153,
+      "name": "*aGoal_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 154,
+      "name": "*aG_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 155,
+      "name": "*aGCarb",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 156,
+      "name": "*aGCarbU",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 157,
+      "name": "*aHigh",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 158,
+      "name": "*aA_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 159,
+      "name": "*aBdh",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 160,
+      "name": "*aHr",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 161,
+      "name": "*aIcRatio",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 162,
+      "name": "*aIcRatio_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 163,
+      "name": "*a1UPerIinsulinD",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 164,
+      "name": "*anonymous_9",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 165,
+      "name": "*aInsulinAction",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 166,
+      "name": "*aInsulinSuspend",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 167,
+      "name": "*aWithinGoal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 168,
+      "name": "*aIob",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 169,
+      "name": "*aInsulinOnBoard",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 170,
+      "name": "*aJanuary",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 171,
+      "name": "*aJuly",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 172,
+      "name": "*aJune",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 173,
+      "name": "*aLastBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 174,
+      "name": "*aLastStatusDT",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 175,
+      "name": "*aLessThan1G",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 176,
+      "name": "*aBacklightTimeO",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 177,
+      "name": "*aLow",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 178,
+      "name": "*aLowReservoir",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 179,
+      "name": "*aManageBgTagLis",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 180,
+      "name": "*aManual",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 181,
+      "name": "*aMarch",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 182,
+      "name": "*aMax",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 183,
+      "name": "*aMay",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 184,
+      "name": "*aMeals",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 185,
+      "name": "*aMeal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 186,
+      "name": "*aMealDD",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 187,
+      "name": "*aMeal_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 188,
+      "name": "*aMealIob",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 189,
+      "name": "*aMgDl",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 190,
+      "name": "*aMgDlPerU",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 191,
+      "name": "*aMin",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 192,
+      "name": "*aMinMax",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 193,
+      "name": "*aMin_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 194,
+      "name": "*aMissedBolusRem",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 195,
+      "name": "*aMmolL",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 196,
+      "name": "*aMmolLPerU",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 197,
+      "name": "*aMyInfo_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 198,
+      "name": "*aMyRecords",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 199,
+      "name": "*aNewLabel",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 200,
+      "name": "*aStatusNotAvail",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 201,
+      "name": "*anonymous_10",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 202,
+      "name": "*aNoon",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 203,
+      "name": "*aNa",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 204,
+      "name": "*aNoData",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 205,
+      "name": "*aNovember",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 206,
+      "name": "*aNow",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 207,
+      "name": "*aOctober",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 208,
+      "name": "*aOff",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 209,
+      "name": "*aOff_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 210,
+      "name": "*aOn",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 211,
+      "name": "*aOneTimeOnly",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 212,
+      "name": "*aOtherInformati",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 213,
+      "name": "*aActionOccurred",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 214,
+      "name": "*aRatiosFactorsT",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 215,
+      "name": "*anonymous_11",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 216,
+      "name": "*anonymous_12",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 217,
+      "name": "*aPleaseWait",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 218,
+      "name": "*aP_2",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 219,
+      "name": "*aPreparingDevic",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 220,
+      "name": "*aPreparingData",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 221,
+      "name": "*aPresets",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 222,
+      "name": "*aPressSaveToA_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 223,
+      "name": "*anonymous_13",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 224,
+      "name": "*aPriming",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 225,
+      "name": "*aProtein",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 226,
+      "name": "*aPodActivated",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 227,
+      "name": "*aChangePodNow",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 228,
+      "name": "*aPodExp_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 229,
+      "name": "*aPodHasPassedEx",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 230,
+      "name": "*aPodAlarm_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 231,
+      "name": "*aPiB_B_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 232,
+      "name": "*aPodStatusNotAv",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 233,
+      "name": "*aResume",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 234,
+      "name": "*aPmB_B_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 235,
+      "name": "*a1Reading",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 236,
+      "name": "*aDReadings",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 237,
+      "name": "*aBasal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 238,
+      "name": "*aBg_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 239,
+      "name": "*aBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 240,
+      "name": "*aCarb",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 241,
+      "name": "*aProgramReminde",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 242,
+      "name": "*aPdmLock",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 243,
+      "name": "*aReminderSSched",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 244,
+      "name": "*aRaB_B_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 245,
+      "name": "*aRbB_B_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 246,
+      "name": "*aPdmAlarm",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 247,
+      "name": "*aClockReset",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 248,
+      "name": "*aRmS",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 249,
+      "name": "*aMmB_B_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 250,
+      "name": "*aPdmOptions",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 251,
+      "name": "*aSn08ld",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 252,
+      "name": "*aRename",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 253,
+      "name": "*aResetPdm",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 254,
+      "name": "*anonymous_14",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 255,
+      "name": "*aReviewAllSetti",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 256,
+      "name": "*aReverseCorrect",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 257,
+      "name": "*aScreenTimeOut",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 258,
+      "name": "*aSec",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 259,
+      "name": "*aSegment",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 260,
+      "name": "*aSeptember",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 261,
+      "name": "*aServingSize",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 262,
+      "name": "*aSettings_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 263,
+      "name": "*aSnacks",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 264,
+      "name": "*aMealIobWillRed",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 265,
+      "name": "*aCorrectionIobW",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 266,
+      "name": "*aIobIsSubtracte",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 267,
+      "name": "*aBgSound",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 268,
+      "name": "*aPYRemains",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 269,
+      "name": "*aUYRemains_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 270,
+      "name": "*aPodExp",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 271,
+      "name": "*aPodExpChangePo",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 272,
+      "name": "*aUYRemains",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 273,
+      "name": "*aExtBolus",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 274,
+      "name": "*aStandardBgTags",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 275,
+      "name": "*aSuggestedBol_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 276,
+      "name": "*aSuspendBegin",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 277,
+      "name": "*aSuspendCancel",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 278,
+      "name": "*aSuspendInsulin",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 279,
+      "name": "*aSuspend",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 280,
+      "name": "*aSystemSetup",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 281,
+      "name": "*aTag_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 282,
+      "name": "*aC_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 283,
+      "name": "*aTargetBgRange",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 284,
+      "name": "*aTargetBg",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 285,
+      "name": "*aTemp",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 286,
+      "name": "*aTempBasalB",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 287,
+      "name": "*aTempBasalPrese",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 288,
+      "name": "*aTempBasal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 289,
+      "name": "*aTempUP",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 290,
+      "name": "*aTime",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 291,
+      "name": "*aTime_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 292,
+      "name": "*aDateTimeChange",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 293,
+      "name": "*aTimeRemaining",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 294,
+      "name": "*aToday",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 295,
+      "name": "*aToday_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 296,
+      "name": "*aTotal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 297,
+      "name": "*aBasal_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 298,
+      "name": "*anonymous_15",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 299,
+      "name": "*aTotalDaily",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 300,
+      "name": "*aTotalIob",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 301,
+      "name": "*aTotal_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 302,
+      "name": "*aType",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 303,
+      "name": "*aUHr",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 304,
+      "name": "*aU_3",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 305,
+      "name": "*aUnits_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 306,
+      "name": "*aUseForBolusCal",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 307,
+      "name": "*aMyInfo",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 308,
+      "name": "*aUserSettings",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 309,
+      "name": "*aVibrate",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 310,
+      "name": "*aVibrateThenBee",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 311,
+      "name": "*aVibration",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 312,
+      "name": "*aViewFoodLibrar",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 313,
+      "name": "*aView",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 314,
+      "name": "*aVolumeRemainin",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 315,
+      "name": "*aYourExtendedBo",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 316,
+      "name": "*aYourTempBasalW",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 317,
+      "name": "*aYourTempBasalA",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 318,
+      "name": "*aMmDdYy",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 319,
+      "name": "*aDdMmYy",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 320,
+      "name": "*aMm_dd_yy",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 321,
+      "name": "*aDd_mm_yy",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 322,
+      "name": "*aYyMmDd",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 323,
+      "name": "*a1_2U0_25UHr3_5",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 324,
+      "name": "*a12U025UHr35Hr",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 325,
+      "name": "*aNotForHumanUse",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 326,
+      "name": "*aCalibrationC_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 327,
+      "name": "*aWhite",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 328,
+      "name": "*aOrange",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 329,
+      "name": "*aGreen",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 330,
+      "name": "*aPurple",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 331,
+      "name": "*aBlue",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 332,
+      "name": "*aIdScreen",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 333,
+      "name": "*aId",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 334,
+      "name": "*aScreenColor",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 335,
+      "name": "*aPressConfirmIf",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 336,
+      "name": "*aLotLLu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 337,
+      "name": "*aTidTLu",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 338,
+      "name": "*aThisWillTemp_0",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 339,
+      "name": "*aThisWillTemp_1",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 340,
+      "name": "*aThisWillTempor",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 341,
+      "name": "*aEnglish",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 342,
+      "name": "*aFrancais",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 343,
+      "name": "*aDeutsch",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 344,
+      "name": "*aNederlands",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 345,
+      "name": "*aSvenska",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 346,
+      "name": "*aItaliano",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    },
+    {
+      "id": 347,
+      "name": "*aNorsk",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_0"
+    }
+  ],
+  "struct_GPIO": [
+    {
+      "id": 1,
+      "name": "struct_GPIO",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 2,
+      "name": "DDIR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 3,
+      "name": "OCR1",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 4,
+      "name": "OCR2",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 5,
+      "name": "ICONFA1",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 6,
+      "name": "ICONFA2",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 7,
+      "name": "ICONFB1",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 8,
+      "name": "ICONFB2",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 9,
+      "name": "DR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 10,
+      "name": "GIUS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 11,
+      "name": "SSR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 12,
+      "name": "ICR1",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 13,
+      "name": "ICR2",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 14,
+      "name": "IMR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 15,
+      "name": "ISR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 16,
+      "name": "GPR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 17,
+      "name": "SWR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    },
+    {
+      "id": 18,
+      "name": "PUEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_GPIO"
+    }
+  ],
+  "struct_v4": [
+    {
+      "id": 1,
+      "name": "struct_v4",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_v4"
+    },
+    {
+      "id": 2,
+      "name": "dword0",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_v4"
+    },
+    {
+      "id": 3,
+      "name": "dword4",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_v4"
+    },
+    {
+      "id": 4,
+      "name": "dword8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_v4"
+    },
+    {
+      "id": 5,
+      "name": "dwordC",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_v4"
+    }
+  ],
+  "struct_a3_28": [
+    {
+      "id": 1,
+      "name": "struct_a3_28",
+      "type": "__attribute__((aligned(2)))",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 2,
+      "name": "dword0",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 3,
+      "name": "byte4",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 4,
+      "name": "byte5",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 5,
+      "name": "gap6[2]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 6,
+      "name": "dword8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 7,
+      "name": "gapC[4]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    },
+    {
+      "id": 8,
+      "name": "word10",
+      "type": "_WORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a3_28"
+    }
+  ],
+  "struct_a1": [
+    {
+      "id": 1,
+      "name": "struct_a1",
+      "type": "__attribute__((aligned(1)))",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 2,
+      "name": "dword0",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 3,
+      "name": "fun4",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 4,
+      "name": "word8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 5,
+      "name": "dword0B",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 6,
+      "name": "dword10",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 7,
+      "name": "dword14",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 8,
+      "name": "dword18",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    },
+    {
+      "id": 9,
+      "name": "dword1B",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_a1"
+    }
+  ],
+  "struct_record_info": [
+    {
+      "id": 1,
+      "name": "struct_record_info",
+      "type": "__attribute__((aligned(2)))",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 3,
+      "name": "lenght",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 4,
+      "name": "field_5",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 5,
+      "name": "field_6",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 6,
+      "name": "field_7",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 7,
+      "name": "field_8",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 8,
+      "name": "field_9",
+      "type": "__int8",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 9,
+      "name": "field_A",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    },
+    {
+      "id": 10,
+      "name": "field_B",
+      "type": "char",
+      "typeField": "Not defined in .h",
+      "struct": "struct_record_info"
+    }
+  ],
+  "struct_bytes3": [
+    {
+      "id": 1,
+      "name": "struct_bytes3",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bytes3"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bytes3"
+    },
+    {
+      "id": 3,
+      "name": "field_4",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bytes3"
+    },
+    {
+      "id": 4,
+      "name": "*field_8",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_bytes3"
+    }
+  ],
+  "struc_36h": [
+    {
+      "id": 1,
+      "name": "struc_36h",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 3,
+      "name": "field_2",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 4,
+      "name": "field_4",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 5,
+      "name": "field_6",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 6,
+      "name": "field_8",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 7,
+      "name": "field_A",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 8,
+      "name": "field_C",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 9,
+      "name": "field_E",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 10,
+      "name": "field_10",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 11,
+      "name": "field_12",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 12,
+      "name": "field_14",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 13,
+      "name": "field_16",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 14,
+      "name": "field_18",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 15,
+      "name": "field_1A",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 16,
+      "name": "field_1C",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 17,
+      "name": "field_1E",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 18,
+      "name": "field_20",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 19,
+      "name": "field_22",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 20,
+      "name": "field_24",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 21,
+      "name": "field_26",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 22,
+      "name": "field_28",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 23,
+      "name": "field_2A",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 24,
+      "name": "field_2C",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 25,
+      "name": "field_2E",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 26,
+      "name": "field_30",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 27,
+      "name": "field_32",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    },
+    {
+      "id": 28,
+      "name": "field_34",
+      "type": "__int16",
+      "typeField": "Not defined in .h",
+      "struct": "struc_36h"
+    }
+  ],
+  "struct_msgs": [
+    {
+      "id": 1,
+      "name": "struct_msgs",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 2,
+      "name": "*anonymous_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 3,
+      "name": "*aNoActivePod_Would",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 4,
+      "name": "*aBolusCanceled_UDe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 5,
+      "name": "*aDeliveringUBolus",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 6,
+      "name": "*aInsulinDeliverySu",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 7,
+      "name": "*aUserInterfaceDi_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 8,
+      "name": "*aUserInterfaceDisa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 9,
+      "name": "*aInsulinOnBoa_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 10,
+      "name": "*aSerialDiagnost",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 11,
+      "name": "*aRfCommunicatio",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 12,
+      "name": "*aEnterBolusAmou",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 13,
+      "name": "*aAnExtendedBolu",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 14,
+      "name": "*aPressConfirmTo",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 15,
+      "name": "*aYourOldExtende",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 16,
+      "name": "*aStartBolus",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 17,
+      "name": "*aTotalBolusUEnte",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 18,
+      "name": "*aExtendedBolusUE",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 19,
+      "name": "*aScheduleABgRemi",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 20,
+      "name": "*aRemindMeToCheck",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 21,
+      "name": "*aMaximumDuration",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 22,
+      "name": "*aEnterCurrentBg_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 23,
+      "name": "*aAreYouGoingToEa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 24,
+      "name": "*aCheckForKetones",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 25,
+      "name": "*aSelectARecentBg",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 26,
+      "name": "*aNoBgReadingsInT",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 27,
+      "name": "*aConfigureTheLis",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 28,
+      "name": "*aInvalidCustomTa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 29,
+      "name": "*aSaveBgReading",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 30,
+      "name": "*aCarbPresets_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 31,
+      "name": "*anonymous_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 32,
+      "name": "*aSelectTag",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 33,
+      "name": "*aInvalidCarbPre",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 34,
+      "name": "*aEnterCarbs_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 35,
+      "name": "*aEnterFiber_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 36,
+      "name": "*aEnterFat_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 37,
+      "name": "*aEnterProtein_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 38,
+      "name": "*aEnterCalories_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 39,
+      "name": "*aS_3",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 40,
+      "name": "*aDeletePreset",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 41,
+      "name": "*anonymous_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 42,
+      "name": "*aCarbs_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 43,
+      "name": "*aSuggestedBolusU",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 44,
+      "name": "*aPressOkToConfi",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 45,
+      "name": "*aNoBolusWillBeDe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 46,
+      "name": "*aWarningExceedsM",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 47,
+      "name": "*aATempBasalIsCur",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 48,
+      "name": "*aEnterTempBasalR",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 49,
+      "name": "*aEnterDurationFo",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 50,
+      "name": "*aEnterDuration_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 51,
+      "name": "*aStartTempBasal",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 52,
+      "name": "*aStartTempBasalT",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 53,
+      "name": "*aStartTempBasalI",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 54,
+      "name": "*aStartTempBasalD",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 55,
+      "name": "*aRequestedTempBa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 56,
+      "name": "*aEnterTempBasalC",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 57,
+      "name": "*aInsulinTotals",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 58,
+      "name": "*aBolusHistory",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 59,
+      "name": "*aBasalHistory",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 60,
+      "name": "*aLastStatusTDWou",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 61,
+      "name": "*aAlarmHistory",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 62,
+      "name": "*aCarbHistory_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 63,
+      "name": "*aAllHistory_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 64,
+      "name": "*aBg_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 65,
+      "name": "*aFoodLibrary",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 66,
+      "name": "*aFoodLibrarySS",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 67,
+      "name": "*aEnterTheFirstL",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 68,
+      "name": "*aFoodLibraryZ",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 69,
+      "name": "*aPressConfirm_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 70,
+      "name": "*aPodDeactivat_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 71,
+      "name": "*aCommunicationEr",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 72,
+      "name": "*aFillANewPodWit",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 73,
+      "name": "*aPrepareInfusion",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 74,
+      "name": "*aPrepareInfusi_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 75,
+      "name": "*aPressStartToIn",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 76,
+      "name": "*aPodIsActive_SHa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 77,
+      "name": "*aPdmAndPodNotCom",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 78,
+      "name": "*aPdmAndPodNotC_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 79,
+      "name": "*aPodSetupWasNotC",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 80,
+      "name": "*aThePodChangePro",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 81,
+      "name": "*aPressDiscardToD",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 82,
+      "name": "*aBasalPrograms_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 83,
+      "name": "*aCannotEnableNew",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 84,
+      "name": "*aPressEnableToSt",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 85,
+      "name": "*aPodSuspended_SW",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 86,
+      "name": "*aS_5",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 87,
+      "name": "*aPressDeleteToRe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 88,
+      "name": "*aEnterStartTimeF",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 89,
+      "name": "*aStartTimeTEnter",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 90,
+      "name": "*aSegmentTTEnterB",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 91,
+      "name": "*aEditName_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 92,
+      "name": "*aInvalidBasalPro",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 93,
+      "name": "*aPressSaveToUpda",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 94,
+      "name": "*aYouHaveCreatedM",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 95,
+      "name": "*aPressSaveToAddS",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 96,
+      "name": "*aSEnterBasalRate",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 97,
+      "name": "*aCannotDeleteThe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 98,
+      "name": "*aCannotEditActiv",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 99,
+      "name": "*aCannotCreateMor",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 100,
+      "name": "*aTempBasalPreset",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 101,
+      "name": "*aCannotEditAnAct",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 102,
+      "name": "*aSRateUDurationR",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 103,
+      "name": "*aSChangePDuratio",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 104,
+      "name": "*aPressDeleteTo_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 105,
+      "name": "*aPressDeleteTo_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 106,
+      "name": "*aInvalidTempBasa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 107,
+      "name": "*aEnterRateForS_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 108,
+      "name": "*aEnterDuration_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 109,
+      "name": "*aEnterDuration_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 110,
+      "name": "*aEnterChangeForS",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 111,
+      "name": "*aBolusPresets_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 112,
+      "name": "*aInvalidBolusPre",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 113,
+      "name": "*aEnterBolusPrese",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 114,
+      "name": "*aSAmountU",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 115,
+      "name": "*aPressDeleteTo_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 116,
+      "name": "*aCannotChangeTim",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 117,
+      "name": "*aBgSound_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 118,
+      "name": "*aVibrationOption",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 119,
+      "name": "*aPressSaveToUp_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 120,
+      "name": "*aBgGoalUpperLimi",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 121,
+      "name": "*aBgGoal_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 122,
+      "name": "*aEnterCurrentTim",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 123,
+      "name": "*aEnterCurrentYea",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 124,
+      "name": "*aEnterCurrentMon",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 125,
+      "name": "*aEnterCurrentDay",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 126,
+      "name": "*aDateFormat",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 127,
+      "name": "*aSelectTheWayNum",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 128,
+      "name": "*aPressConfirmToA",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 129,
+      "name": "*aPressConfirmT_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 130,
+      "name": "*aEnterMaximumBol",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 131,
+      "name": "*aMaxBolusConflic",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 132,
+      "name": "*aEnterMaximumBas",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 133,
+      "name": "*aMaxBasalRateCon",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 134,
+      "name": "*aSelectBolusIncr",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 135,
+      "name": "*aBolusCalculatio",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 136,
+      "name": "*aNotifyWhenPodEx",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 137,
+      "name": "*aNotifyWhenReser",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 138,
+      "name": "*aAlertIfNoPodSta",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 139,
+      "name": "*aBgReminder_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 140,
+      "name": "*aProgramReminder",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 141,
+      "name": "*aConfidenceRemin",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 142,
+      "name": "*aBolusReminder_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 143,
+      "name": "*aEnterStartTim_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 144,
+      "name": "*aYouHaveCreate_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 145,
+      "name": "*aBolusReminderTT",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 146,
+      "name": "*aPressDeleteTo_3",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 147,
+      "name": "*aPressSaveToUp_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 148,
+      "name": "*aSuspendInsulinD",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 149,
+      "name": "*aSuspendAllDeliv",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 150,
+      "name": "*aCancelExtendedB",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 151,
+      "name": "*aCancelTempBasal",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 152,
+      "name": "*aCancelTempBas_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 153,
+      "name": "*aInsulinDelivery",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 154,
+      "name": "*aPdmLock_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 155,
+      "name": "*aScreenTimeOut_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 156,
+      "name": "*aBacklightTimeOu",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 157,
+      "name": "*aPressOkToCheckA",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 158,
+      "name": "*aPressOkToChec_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 159,
+      "name": "*aPressConfirmToR",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 160,
+      "name": "*aCannotResetPdmW",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 161,
+      "name": "*aCheckingAlarms_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 162,
+      "name": "*aLowPdmBatteries",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 163,
+      "name": "*aCannotCheckAlar",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 164,
+      "name": "*aSelectALanguage",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 165,
+      "name": "*aWelcomeToTheMyl",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 166,
+      "name": "*aWelcomeToTheOmn",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 167,
+      "name": "*aPressSaveToAcce",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 168,
+      "name": "*aYourMylifeOmnip",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 169,
+      "name": "*aYourOmnipodInsu",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 170,
+      "name": "*aTempBasal_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 171,
+      "name": "*aBgUnits_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 172,
+      "name": "*aEnterLowerLimit",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 173,
+      "name": "*aEnterUpperLimit",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 174,
+      "name": "*aSuggestedBolusC",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 175,
+      "name": "*aEnterTargetBgTh",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 176,
+      "name": "*aTargetCorrectAb",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 177,
+      "name": "*aEnterStartTim_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 178,
+      "name": "*anonymous_3",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 179,
+      "name": "*aSegmentTTEnterY",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 180,
+      "name": "*aYouHaveCreate_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 181,
+      "name": "*aPressSaveToAc_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 182,
+      "name": "*aSegmentTTTarget",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 183,
+      "name": "*aTargetBgBSugges",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 184,
+      "name": "*aEnterIcRatioTh",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 185,
+      "name": "*aInsulinToCarbI",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 186,
+      "name": "*aEnterStartTi_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 187,
+      "name": "*aSegmentTTEnterI",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 188,
+      "name": "*aPressSaveToAc_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 189,
+      "name": "*aEnterCorrection",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 190,
+      "name": "*aCorrectionFacto",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 191,
+      "name": "*aEnterStartTim_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 192,
+      "name": "*aSegmentTTEnter",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 193,
+      "name": "*aPressSaveToAc_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 194,
+      "name": "*aReverseCorre_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 195,
+      "name": "*aEnterDurationOf",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 196,
+      "name": "*aMissedBolusR_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 197,
+      "name": "*aExtendedBolus",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 198,
+      "name": "*aEnterMinimumBg",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 199,
+      "name": "*aCommunication_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 200,
+      "name": "*aCommunicatio_5",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 201,
+      "name": "*aCommunicatio_1",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 202,
+      "name": "*aCommunicationT",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 203,
+      "name": "*aCommunicatio_2",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 204,
+      "name": "*aCommunicatio_3",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 205,
+      "name": "*aCommunicationS",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 206,
+      "name": "*aCommunicationE",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 207,
+      "name": "*anonymous_4",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 208,
+      "name": "*aExtendedBolusI",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 209,
+      "name": "*anonymous_5",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 210,
+      "name": "*anonymous_6",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 211,
+      "name": "*aEnterAmountOfM",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 212,
+      "name": "*aExtendedBolu_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 213,
+      "name": "*aBolusCalcsCann",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 214,
+      "name": "*aCustomRemind_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 215,
+      "name": "*aInvalidCustomR",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 216,
+      "name": "*aEnterTime_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 217,
+      "name": "*aSelectOption",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 218,
+      "name": "*aSTimeTSettingF",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 219,
+      "name": "*aPressDeleteToR",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 220,
+      "name": "*aEnterCode_",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 221,
+      "name": "*aApplyABloodSam",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 222,
+      "name": "(*anonymous_7)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 223,
+      "name": "*aSelectBgTag",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 224,
+      "name": "*aBgTagListIsEmp",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 225,
+      "name": "*aMeterErrorD_Se",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 226,
+      "name": "*aBolusCalcula_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 227,
+      "name": "*aBolusCalculati",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 228,
+      "name": "*aTreatYourLow_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 229,
+      "name": "*aDueToARecentCl",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 230,
+      "name": "*aBgCalibrationC",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 231,
+      "name": "*aTreatYourLowBg",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 232,
+      "name": "*aIfYouChooseToU",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 233,
+      "name": "*aControlSolutio",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 234,
+      "name": "*aMeterTempera_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 235,
+      "name": "*aDeleteCustomTa",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 236,
+      "name": "*aPodError_Insul",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 237,
+      "name": "*aPdmError_Rem_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 238,
+      "name": "*aPdmError_Remov",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 239,
+      "name": "*aOcclusionDet_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 240,
+      "name": "*aEmptyReservoir",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 241,
+      "name": "*aAutoOff_Remove",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 242,
+      "name": "*aPodExpired_Ins",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 243,
+      "name": "*aEndOfInsulinSu",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 244,
+      "name": "*aLowReservoir_R",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 245,
+      "name": "*aAutoOffAdvisor",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 246,
+      "name": "*aPodExpirationA",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 247,
+      "name": "*anonymous_8",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 248,
+      "name": "*aOcclusionDetec",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 249,
+      "name": "*aStuckKeyDetect",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 250,
+      "name": "*aStuckKeyDete_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 251,
+      "name": "*aLowPdmBatterie",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 252,
+      "name": "*aReminderCheckB",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 253,
+      "name": "*aReminderMissed",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 254,
+      "name": "*aCustomReminder",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 255,
+      "name": "*aReminderNoActi",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 256,
+      "name": "*aExpirationAler",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 257,
+      "name": "*aSystemError_Re",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 258,
+      "name": "*aSystemError__0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 259,
+      "name": "*aPdmError_Press",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 260,
+      "name": "*aWarningClockRe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 261,
+      "name": "*aPodDeactivatio",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 262,
+      "name": "*aPdmError_Memor",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 263,
+      "name": "*aLowPdmBatter_0",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 264,
+      "name": "*aUsbDeviceDetec",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 265,
+      "name": "*aUsbDeviceReady",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 266,
+      "name": "(*anonymous_9)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 267,
+      "name": "(*anonymous_10)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 268,
+      "name": "(*anonymous_11)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 269,
+      "name": "(*anonymous_12)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 270,
+      "name": "(*anonymous_13)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 271,
+      "name": "(*anonymous_14)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 272,
+      "name": "(*anonymous_15)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 273,
+      "name": "(*anonymous_16)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 274,
+      "name": "(*anonymous_17)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 275,
+      "name": "(*anonymous_18)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 276,
+      "name": "(*anonymous_19)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 277,
+      "name": "(*anonymous_20)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 278,
+      "name": "(*anonymous_21)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 279,
+      "name": "(*anonymous_22)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 280,
+      "name": "(*anonymous_23)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 281,
+      "name": "(*anonymous_24)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 282,
+      "name": "(*anonymous_25)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 283,
+      "name": "(*anonymous_26)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 284,
+      "name": "(*anonymous_27)[]",
+      "type": "#27",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 285,
+      "name": "*aPressClearToRe",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 286,
+      "name": "*aClearingPdm_Do",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 287,
+      "name": "*aEnterYourNameO",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 288,
+      "name": "*aChooseAColorFo",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    },
+    {
+      "id": 289,
+      "name": "*aPdmId",
+      "type": "void",
+      "typeField": "Not defined in .h",
+      "struct": "struct_msgs"
+    }
+  ],
+  "struct_usb_sysreg": [
+    {
+      "id": 1,
+      "name": "struct_usb_sysreg",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 2,
+      "name": "USB_CORE_HWMODE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 3,
+      "name": "USB_CORE_CINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 4,
+      "name": "USB_CORE_CINTSTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 5,
+      "name": "USB_CORE_CLKCTRL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 6,
+      "name": "USB_CORE_RSTCTRL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 7,
+      "name": "USB_CORE_FRAME_INVTL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 8,
+      "name": "USB_CORE_FRAME_REMAIN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 9,
+      "name": "USB_CORE_HNPCTRL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 10,
+      "name": "USB_CORE_HNP_TMR1",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 11,
+      "name": "USB_CORE_HNP_TMR2",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 12,
+      "name": "USB_CORE_HNP_TMR3PCR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 13,
+      "name": "USB_CORE_HNP_INTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 14,
+      "name": "USB_CORE_HNP_INTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 15,
+      "name": "USB_CORE_PAD[3]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 16,
+      "name": "USB_FUNC_FUNCOMSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 17,
+      "name": "USB_FUNC_DEVADDR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 18,
+      "name": "USB_FUNC_SINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 19,
+      "name": "USB_FUNC_SINTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 20,
+      "name": "USB_FUNC_XBUFINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 21,
+      "name": "USB_FUNC_YBUFINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 22,
+      "name": "USB_FUNC_XYINTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 23,
+      "name": "USB_FUNC_XFILLSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 24,
+      "name": "USB_FUNC_YFILLSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 25,
+      "name": "USB_FUNC_EPEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 26,
+      "name": "USB_FUNC_EPRDY",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 27,
+      "name": "USB_FUNC_IMMDONEINT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 28,
+      "name": "USB_FUNC_EPDONESTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 29,
+      "name": "USB_FUNC_EPDONEEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 30,
+      "name": "USB_FUNC_EPTOGGBITS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 31,
+      "name": "USB_FUNC_FRAME_NUMBER",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 32,
+      "name": "USB_HOST_HOSTCTRL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 33,
+      "name": "USB_HOST_RESERVED_84",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 34,
+      "name": "USB_HOST_SINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 35,
+      "name": "USB_HOST_SINTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 36,
+      "name": "USB_HOST_RESERVED_90",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 37,
+      "name": "USB_HOST_RESERVED_94",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 38,
+      "name": "USB_HOST_XBUFINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 39,
+      "name": "USB_HOST_YBUFINTSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 40,
+      "name": "USB_HOST_XYINTEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 41,
+      "name": "USB_HOST_RESERVED_A4",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 42,
+      "name": "USB_HOST_XFILLSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 43,
+      "name": "USB_HOST_YFILLSTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 44,
+      "name": "USB_HOST_RESERVED_B0",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 45,
+      "name": "USB_HOST_RESERVED_B4",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 46,
+      "name": "USB_HOST_RESERVED_B8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 47,
+      "name": "USB_HOST_RESERVED_BC",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 48,
+      "name": "USB_HOST_ETDENSET",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 49,
+      "name": "USB_HOST_ETDENCLR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 50,
+      "name": "USB_HOST_RESERVED_C8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 51,
+      "name": "USB_HOST_IMMDONEINT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 52,
+      "name": "USB_HOST_ETDDONESTAT",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 53,
+      "name": "USB_HOST_ETDDONEEN",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 54,
+      "name": "USB_HOST_RESERVED_D8",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 55,
+      "name": "USB_HOST_RESERVED_DC",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 56,
+      "name": "USB_HOST_FRAME_NUMBER",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 57,
+      "name": "USB_HOST_FRAME_LSTHD",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 58,
+      "name": "USB_HOST_ROOTHUB_A",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 59,
+      "name": "USB_HOST_ROOTHUB_B",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 60,
+      "name": "USB_HOST_ROOTHUB_STATUS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 61,
+      "name": "USB_HOST_ROOTHUB_PORTSTAT[3]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 62,
+      "name": "USB_TRANS_VENDORID0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 63,
+      "name": "USB_TRANS_VENDORID1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 64,
+      "name": "USB_TRANS_PRODUCTID0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 65,
+      "name": "USB_TRANS_PRODUCTID1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 66,
+      "name": "USB_TRANS_MODECTRL0_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 67,
+      "name": "USB_TRANS_MODECTRL0_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 68,
+      "name": "USB_TRANS_OTGCTRL_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 69,
+      "name": "USB_TRANS_OTGCTRL_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 70,
+      "name": "USB_TRANS_INTSOURCE",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 71,
+      "name": "USB_TRANS_RESERVED0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 72,
+      "name": "USB_TRANS_INTLATCH_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 73,
+      "name": "USB_TRANS_INTLATCH_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 74,
+      "name": "USB_TRANS_INTMASK_FSET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 75,
+      "name": "USB_TRANS_INTMASK_FCLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 76,
+      "name": "USB_TRANS_INTMASK_TSET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 77,
+      "name": "USB_TRANS_INTMASK_TCLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 78,
+      "name": "USB_TRANS_OTGSTATUS",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 79,
+      "name": "USB_TRANS_RESERVED2",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 80,
+      "name": "USB_TRANS_MODECTRL1_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 81,
+      "name": "USB_TRANS_MODECTRL1_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 82,
+      "name": "USB_TRANS_BCDDEV0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 83,
+      "name": "USB_TRANS_BCDDEV1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 84,
+      "name": "USB_TRANS_RESERVED3",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 85,
+      "name": "USB_TRANS_RESERVED4",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 86,
+      "name": "USB_TRANS_OTGDEVADDR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 87,
+      "name": "USB_TRANS_SEQOPS",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 88,
+      "name": "USB_TRANS_SEQRDSTRTADDR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 89,
+      "name": "USB_TRANS_OPCTRL",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 90,
+      "name": "USB_TRANS_RESERVED5",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 91,
+      "name": "USB_TRANS_RESERVED6",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 92,
+      "name": "USB_TRANS_SCLK2SCLDIV",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 93,
+      "name": "USB_TRANS_INTCTRL",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 94,
+      "name": "USB_TRANS_PAD[54]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 95,
+      "name": "USB_SIMU_HC_CONTROL_HEAD_ED",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 96,
+      "name": "USB_SIMU_HC_BULK_HEAD_ED",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 97,
+      "name": "USB_ETD_MEM[128]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 98,
+      "name": "USB_EP_MEM[128]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 99,
+      "name": "USB_CTRL[64]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 100,
+      "name": "USB_OTG_RESERVED_700[64]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 101,
+      "name": "USB_DMA_REVISION",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 102,
+      "name": "USB_DMA_INTERRUPT_STATUS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 103,
+      "name": "USB_DMA_INTERRUPT_ENABLE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 104,
+      "name": "USB_ETD_DMA_ERROR_STATUS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 105,
+      "name": "USB_EP_DMA_ERROR_STATUS",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 106,
+      "name": "USB_DMA_RESERVED_814[3]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 107,
+      "name": "USB_ETD_DMA_ENABLE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 108,
+      "name": "USB_EP_DMA_ENABLE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 109,
+      "name": "USB_ETD_DMA_ENABLE_X_TRIGER_REQUEST",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 110,
+      "name": "USB_EP_DMA_ENABLE_X_TRIGER_REQUEST",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 111,
+      "name": "USB_ETD_DMA_ENABLE_XY_TRIGER_REQUEST",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 112,
+      "name": "USB_EP_DMA_ENABLE_XY_TRIGER_REQUEST",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 113,
+      "name": "USB_ETD_DMA_BURST_4_ENABLE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 114,
+      "name": "USB_EP_DMA_BURST_4_ENABLE",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 115,
+      "name": "USB_DMA_MISCELLANEOUS_CONTROL",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 116,
+      "name": "USB_DMA_RESERVED_844",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 117,
+      "name": "USB_ETD_DMA_CHANNEL_CLEAR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 118,
+      "name": "USB_EP_DMA_CHANNEL_CLEAR",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 119,
+      "name": "USB_DMA_RESERVED_850[44]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 120,
+      "name": "USB_DMA_ETD_SYS_MEM_STRT_ADDR[32]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 121,
+      "name": "USB_DMA_EP_SYS_MEM_STRT_ADDR[32]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 122,
+      "name": "USB_ETD_DMA_BUF_XFER_PTR[32]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 123,
+      "name": "USB_EP_DMA_BUF_XFER_PTR[32]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 124,
+      "name": "USB_OTG_RESERVED[320]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    },
+    {
+      "id": 125,
+      "name": "USB_DATA_MEM[4096]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_sysreg"
+    }
+  ],
+  "USB_TRANS": [
+    {
+      "id": 1,
+      "name": "USB_TRANS",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 2,
+      "name": "USB_TRANS_VENDORID0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 3,
+      "name": "USB_TRANS_VENDORID1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 4,
+      "name": "USB_TRANS_PRODUCTID0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 5,
+      "name": "USB_TRANS_PRODUCTID1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 6,
+      "name": "USB_TRANS_MODECTRL0_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 7,
+      "name": "USB_TRANS_MODECTRL0_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 8,
+      "name": "USB_TRANS_OTGCTRL_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 9,
+      "name": "USB_TRANS_OTGCTRL_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 10,
+      "name": "USB_TRANS_INTSOURCE",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 11,
+      "name": "USB_TRANS_RESERVED0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 12,
+      "name": "USB_TRANS_INTLATCH_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 13,
+      "name": "USB_TRANS_INTLATCH_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 14,
+      "name": "USB_TRANS_INTMASK_FSET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 15,
+      "name": "USB_TRANS_INTMASK_FCLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 16,
+      "name": "USB_TRANS_INTMASK_TSET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 17,
+      "name": "USB_TRANS_INTMASK_TCLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 18,
+      "name": "USB_TRANS_OTGSTATUS",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 19,
+      "name": "USB_TRANS_RESERVED2",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 20,
+      "name": "USB_TRANS_MODECTRL1_SET",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 21,
+      "name": "USB_TRANS_MODECTRL1_CLR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 22,
+      "name": "USB_TRANS_BCDDEV0",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 23,
+      "name": "USB_TRANS_BCDDEV1",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 24,
+      "name": "USB_TRANS_RESERVED3",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 25,
+      "name": "USB_TRANS_RESERVED4",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 26,
+      "name": "USB_TRANS_OTGDEVADDR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 27,
+      "name": "USB_TRANS_SEQOPS",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 28,
+      "name": "USB_TRANS_SEQRDSTRTADDR",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 29,
+      "name": "USB_TRANS_OPCTRL",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 30,
+      "name": "USB_TRANS_RESERVED5",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 31,
+      "name": "USB_TRANS_RESERVED6",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 32,
+      "name": "USB_TRANS_SCLK2SCLDIV",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 33,
+      "name": "USB_TRANS_INTCTRL",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    },
+    {
+      "id": 34,
+      "name": "USB_TRANS_PAD[54]",
+      "type": "_DWORD",
+      "typeField": "Not defined in .h",
+      "struct": "USB_TRANS"
+    }
+  ],
+  "struct_usb_callX": [
+    {
+      "id": 1,
+      "name": "struct_usb_callX",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    },
+    {
+      "id": 3,
+      "name": "gap4[16]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    },
+    {
+      "id": 4,
+      "name": "field_20",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    },
+    {
+      "id": 5,
+      "name": "gap18[4]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    },
+    {
+      "id": 6,
+      "name": "field_28",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX"
+    }
+  ],
+  "struct_usb_callX2": [
+    {
+      "id": 1,
+      "name": "struct_usb_callX2",
+      "type": "struct",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 2,
+      "name": "field_0",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 3,
+      "name": "gap4[24]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 4,
+      "name": "field_28",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 5,
+      "name": "gap20[4]",
+      "type": "_BYTE",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 6,
+      "name": "field_36",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    },
+    {
+      "id": 7,
+      "name": "field_40",
+      "type": "int",
+      "typeField": "Not defined in .h",
+      "struct": "struct_usb_callX2"
+    }
+  ]
+}
