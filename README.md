@@ -1,6 +1,6 @@
 # OmniPod PDM Dump decoding
 
-This page contains a C# dump of the Omnipod PDM software which is on the device itself. 
+This page contains a C# dump of the Omnipod PDM software which is on the device itself. This is forked from this github page: https://github.com/ps2/omni.
 
 I am now trying to convert the C# code back into python code to recreate the Omnipod commands for use via the Rileylink setup to achieve the [openaps](https://openaps.org) goal with using an Omnipod instead of the tubed 8 year old pumps.
 
@@ -12,8 +12,9 @@ python omnipod_h_parser.py pdm_eu.h
 ```
 
 ## Current Status
-- Created an json dictionary and csv dump of all the available commands
-- The current code uses a lot of index placeholders which makes reading the functions difficult to read. With the created JSON the next step will be replacing the indexes with the proper names of the commands.
+- Created an [json dictionary](https://github.com/Lytrix/omni/blob/master/pdm-eu.h.csv) and [csv dump](https://github.com/Lytrix/omni/blob/master/pdm-eu.h.csv) of all the available commands
+- The current code uses a lot of index placeholders which makes reading the functions difficult to read. 
+- With the created JSON the next step will be replacing the indexes in the .c file with the proper names of the commands to work out the temp basal en error functions for example.
 
 #### Stay Up to Date!
 [Join the Slack channel](https://omniapsslack.azurewebsites.net/) to discuss this work.
