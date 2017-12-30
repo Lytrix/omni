@@ -22,19 +22,20 @@ def lastDictName(sDict):
 def convertObject(listWords, sDict, definitions):
     """Create Dict for each item in struct"""
     #print('test', listWords)
-    Object = {}
-    Object["id"] = len(sDict[lastDictName(sDict)]) + 1
-    Object["name"] = listWords[-1].replace(';', '')
-    Object["type"] = listWords[:-1][-1]
+    result = {}
+    Number = len(sDict[lastDictName(sDict)]) + 1
+    result[Number]={}
+    result[Number]["name"] = listWords[-1].replace(';', '')
+    result[Number]["type"] = listWords[:-1][-1]
     #print(definitions)
     for key, value in definitions.items():
         if listWords == key:
-            Object["typeField"] = item.value
+            result[Number]["typeField"] = item.value
         else:
-            Object["typeField"] = 'Not defined in .h'
-    Object["struct"] = lastDictName(sDict)
+            result[Number]["typeField"] = 'Not defined in .h'
+    result[Number]["struct"] = lastDictName(sDict)
     #print(Object)
-    return Object
+    return result
 
 
 def createDefinitions(listWords, definitions):
@@ -54,10 +55,10 @@ def createStructDict(listWords, sDict, ignoreChars, definitions):
     if listWords[0] == 'struct':
         structName = listWords[-1]
         print(structName)
-        sDict[structName] = []
-    if not wordContainsAny(listWords[0], ignoreChars):
+        sDict[structName] = {}
+    if not wordContainsAny(listWords[0], ignoreChars) and listWords[0] != 'struct':
         item = convertObject(listWords, sDict, definitions)
-        sDict[lastDictName(sDict)].append(item)
+        sDict[lastDictName(sDict)].update(item)
     return sDict
 
 

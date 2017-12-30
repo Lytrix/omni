@@ -1,0 +1,136 @@
+{
+  "struct_error_ref": {
+    "0": {
+      "name": "word0",
+      "type": "_WORD",
+      "struct": "struct_error_ref"
+    },
+    "1": {
+      "name": "word2",
+      "type": "_WORD",
+      "struct": "struct_error_ref"
+    },
+    "2": {
+      "name": "word4",
+      "type": "_WORD",
+      "struct": "struct_error_ref"
+    },
+    "3": {
+      "name": "word6",
+      "type": "_WORD",
+      "struct": "struct_error_ref"
+    }
+  },
+  "struct_queue_big": {
+    "0": {
+      "name": "poistionRel",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "1": {
+      "name": "field_2",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "2": {
+      "name": "poistionRel_FromEnd",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "3": {
+      "name": "field_6",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "4": {
+      "name": "base",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "5": {
+      "name": "field_9",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "6": {
+      "name": "field_A",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "7": {
+      "name": "field_C",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "8": {
+      "name": "field_D",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "9": {
+      "name": "field_E",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "10": {
+      "name": "field_F",
+      "type": "char",
+      "struct": "struct_queue_big"
+    },
+    "11": {
+      "name": "poistionRel_xor",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "12": {
+      "name": "field_12",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "13": {
+      "name": "field_14",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "14": {
+      "name": "field_16",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "15": {
+      "name": "field_18",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "16": {
+      "name": "field_19",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "17": {
+      "name": "field_1A",
+      "type": "__int16",
+      "struct": "struct_queue_big"
+    },
+    "18": {
+      "name": "field_1C",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "19": {
+      "name": "field_1D",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "20": {
+      "name": "field_1E",
+      "type": "__int8",
+      "struct": "struct_queue_big"
+    },
+    "21": {
+      "name": "field_1F",
+      "type": "char",
+      "struct": "struct_queue_big"
+    }
+  }
+}
