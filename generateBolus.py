@@ -958,7 +958,7 @@ def sub_C80CB430(a1):
 
 def sub_C80D90AC(a1, v3):  # check bolus value?
     v5 = a1
-    v5 =20
+
     if (a1 <= 0) or (v5 > 18):
         # Basal error
         reportError(360, 23, 5, v5)
